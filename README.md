@@ -1,1 +1,1 @@
-The project aim is to design and build a notes app that can take multiple entries per note. It should allow users to select a note when they launch the app
+The project aim is to design and build a note app, users can easily add, edit, or delete their notes. The notes user has added to this app will be stored in the browser's local storage so, they won't remove on page refresh or tab close.
